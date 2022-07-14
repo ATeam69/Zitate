@@ -1,0 +1,27 @@
+body {
+    margin: 0px;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+    background-color: black;
+    margin: 0px;
+    padding: 8px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.week {
+    width: 75%;
+    margin: auto;
+    background-color: rgb(221, 221, 221);
+    font-size: larger;
+    padding: 8px;
+    margin-bottom: 32px;
+}
+.quote {
+    margin: auto;
+}
+.creator {
+    background-color: rgb(200, 200, 200);
+    margin-bottom: 16px;
+}
